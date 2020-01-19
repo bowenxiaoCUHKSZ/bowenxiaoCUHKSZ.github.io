@@ -8,14 +8,14 @@
   image: edgetoll-photo.png
 
 - name: "EduBloud: A Blockchain-based Education Cloud"
-  url: https://github.com/revan/BusOccupancy
+  url: https://cuhko365-my.sharepoint.com/:b:/g/personal/117010300_link_cuhk_edu_cn/EWkOtMXIUMlNipUgJdkzSDMB63eN7rjlkiDZkQK7vNSSOg?e=UJUjah
   description: "
   In this independent study we attempted to estimate campus bus occupancy using tcpdump to
   capture network traffic.
   <br>
   Repository contains a bunch of plotting scripts and our report.
   "
-  image: busoccupancy.png
+  image: platform.png
 
 # - name: "Visual Question Answering"
 #   url: https://github.com/revan/facerecHUD
