@@ -17,12 +17,3 @@
   "
   image: platform.png
 
-# - name: "Visual Question Answering"
-#   url: https://github.com/revan/facerecHUD
-#   description: "
-#   WINLAB is a research facility affiliated with Rutgers University.
-#   My project for the summer was to implement a facial recognition system using an Android HUD meant for snowboarders.
-#   <br>
-#   It was a cool toy to play with, but I'm not going to pretend that we did anything groundbreaking here.
-#   "
-#   image: modlivehud.jpg
