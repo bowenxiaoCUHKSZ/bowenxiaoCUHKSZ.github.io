@@ -1,13 +1,13 @@
-- name: "Detecting Planes in Real-Time for Camera Display Communications"
-  url: https://github.com/mathski/visualmimo
+- name: "EdgeToll: A Blockchain-based Toll Collection System for Public Sharing of Heterogeneous Edges"
+  url: https://mypage.cuhk.edu.cn/academics/caiwei/paper/XiaoFGC2019.pdf
   description: "
   This started as an independent study in conjunction with a <a href='http://www.winlab.rutgers.edu/~aashok/visualmimo/Overview.html'>research group</a> but has kept going.
   We're building a system for extracting hidden information in an image, using an Android device.
   I wrote a report on the workings <a href='https://github.com/revan/special-problems-report/blob/master/report.pdf'>here</a>.
   "
-  image: vmimo.png
+  image: edgetoll-photo.png
 
-- name: "Programmatically Determining Bus Occupancy"
+- name: "EduBloud: A Blockchain-based Education Cloud"
   url: https://github.com/revan/BusOccupancy
   description: "
   In this independent study we attempted to estimate campus bus occupancy using tcpdump to
@@ -17,20 +17,12 @@
   "
   image: busoccupancy.png
 
-- name: "facerecHUD"
-  url: https://github.com/revan/facerecHUD
-  description: "
-  WINLAB is a research facility affiliated with Rutgers University.
-  My project for the summer was to implement a facial recognition system using an Android HUD meant for snowboarders.
-  <br>
-  It was a cool toy to play with, but I'm not going to pretend that we did anything groundbreaking here.
-  "
-  image: modlivehud.jpg
-
-- name: "An Experiment on Partnership Protocols for Bilateral Trade with Incomplete Information"
-  url: https://ideas.repec.org/p/rut/rutres/201304.html
-  description: "
-    Tangentially relevant, I supposed, but this was my first involvement in any sort of research. Back in high school my dad, Economics professor, hired me to program some experiments. As it turns out, the school has some pretty strict anti-nepotism rules preventing exactly that sort of thing, so I got bumped to coauthor.
-    <br>
-    I made <a href='https://github.com/revan/zTreeDev'>this toolkit</a> for working with the framework.
-  "
+# - name: "Visual Question Answering"
+#   url: https://github.com/revan/facerecHUD
+#   description: "
+#   WINLAB is a research facility affiliated with Rutgers University.
+#   My project for the summer was to implement a facial recognition system using an Android HUD meant for snowboarders.
+#   <br>
+#   It was a cool toy to play with, but I'm not going to pretend that we did anything groundbreaking here.
+#   "
+#   image: modlivehud.jpg
