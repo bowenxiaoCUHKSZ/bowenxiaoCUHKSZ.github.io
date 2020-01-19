@@ -6,15 +6,15 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Revan Sopher
+title:            Bowen Xiao
 tagline:          "That would be me."
 description:      'A blog, it would seem.'
 url:              http://revan.io
 
 author:
-  name:           'Revan Sopher'
+  name:           'Bowen Xiao'
 
 paginate_path:    "blog/page:num"
 paginate:         5
 
-resume:           'https://www.dropbox.com/s/rdg3im8c4iij8j0/resumerevan.pdf?raw=1'
+resume:           'https://drive.google.com/open?id=1AL_9VhJoZGKNv7N--_S2RSjUZ3NXT5aY'
