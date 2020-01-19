@@ -11,15 +11,15 @@
   image: Big_Data.png
 
 - name: "Software for Edge and Blockchain Systems (SFENKS) Laboratory, CUHK-Shenzhen"
-date: "2018-2020"
-url: http://sfenks.sse.cuhk.edu.cn/
-description: "
-The <a href='dynawheel.jpg'>Dynawheel</a> is a medical smartphone accessory, providing a system for engaging physical therapy,
-because squeezing a therapy ball gets boring <i>fast</i>.
-<br>I worked closely with the creators to develop a remote reporting system that makes local patient metrics
-available to therapists via a web interface.
-"
-image: sfenks.png
+  date: "2018-2020"
+  url: http://sfenks.sse.cuhk.edu.cn/
+  description: "
+  The <a href='dynawheel.jpg'>Dynawheel</a> is a medical smartphone accessory, providing a system for engaging physical therapy,
+  because squeezing a therapy ball gets boring <i>fast</i>.
+  <br>I worked closely with the creators to develop a remote reporting system that makes local patient metrics
+  available to therapists via a web interface.
+  "
+  image: sfenks.png
 
 - name: "Research Institute of Tsinghua University in Shenzhen."
   date: "September 2019"
