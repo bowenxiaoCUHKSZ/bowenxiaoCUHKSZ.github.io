@@ -17,5 +17,5 @@ author:
 paginate_path:    "blog/page:num"
 paginate:         5
 
-resume:           'https://bowenxiaocuhksz.github.io/BowenXiao_Resume2.pdf'
+resume:           'pdf/BowenXiao_Resume2.pdf'
 # what the hell
