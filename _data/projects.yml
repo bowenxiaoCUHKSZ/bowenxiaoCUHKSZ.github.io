@@ -1,9 +1,9 @@
 - name: "Learning Analytics"
   # url: https://github.com/revan/LinkedIn-Unconscious-Bias
   description: "
-    An A/B testing framework for running experiments to assess the impact of unconscious bias in recruiting.
-    Subjects are asked to rank a series of LinkedIn profile pairs, with and without name/picture stripped.
-    Profiles that perform better with information stripped are likely suffering from negative bias.
+      A big data based learning analytics websites. This project collects tons of students' WIFI usage data and monitors their location.
+      Using XGBoost regression model to analyze the relation ship among academic level and learning behaviours. Sending email to low-GPA
+      students and correct their attitudes.
     "
   image: Big_Data.png
   # prize: "<a> Huawei Data Creative Competition </a>"

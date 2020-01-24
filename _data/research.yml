@@ -1,19 +1,17 @@
 - name: "EdgeToll: A Blockchain-based Toll Collection System for Public Sharing of Heterogeneous Edges"
   url: https://mypage.cuhk.edu.cn/academics/caiwei/paper/XiaoFGC2019.pdf
   description: "
-  This started as an independent study in conjunction with a <a href='http://www.winlab.rutgers.edu/~aashok/visualmimo/Overview.html'>research group</a> but has kept going.
-  We're building a system for extracting hidden information in an image, using an Android device.
-  I wrote a report on the workings <a href='https://github.com/revan/special-problems-report/blob/master/report.pdf'>here</a>.
+    This research focus on leveraging payment channel and blockchain in a source sharing system. By deploying a payment channel 
+    in public train, we build a web server acting as a intermediate role in connecting off-line agreement. Results show that our system
+    outperform than normal blockchain based method. This paper is published at a top conference (2019 IEEE INFOCOM IECCO WRKSHP).
   "
   image: edgetoll-photo.png
 
 - name: "EduBloud: A Blockchain-based Education Cloud"
   url: https://cuhko365-my.sharepoint.com/:b:/g/personal/117010300_link_cuhk_edu_cn/EWkOtMXIUMlNipUgJdkzSDMB63eN7rjlkiDZkQK7vNSSOg?e=UJUjah
   description: "
-  In this independent study we attempted to estimate campus bus occupancy using tcpdump to
-  capture network traffic.
-  <br>
-  Repository contains a bunch of plotting scripts and our report.
+    This research leverage blockchain in cloud education system. Different from traditional cloud, our system adopts three layer
+    blockchain (public chain, consortium chain, private chain) to ensure throughput and data veracity.
   "
   image: platform.png
 

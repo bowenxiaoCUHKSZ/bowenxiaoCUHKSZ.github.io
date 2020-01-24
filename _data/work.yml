@@ -2,11 +2,8 @@
   date: "Summer 2019"
   url: http://www.sribd.cn/index.php/cn/
   description: "
-    A massive online open course ed-tech company.
-      <br>My first job to not involve any mobile development, I was on the infrastructure team.
-      Had to pick up Scala, my first functional language, which was a blast.
-      <br> I contributed to an internal load balancer and AWS deployment tools, and designed and built a real-time abuse protection service.
-      <br>Did this as part of the <a href='http://kpcbfellows.com'>KPCB Fellows Program</a>.
+      Mainly work arount visualization design. Using Vue.js to reorganize the learning analytics system. 
+      Design and write codes for webpages and visualization research.
     " 
   image: Big_Data.png
 
@@ -14,10 +11,8 @@
   date: "2018-2020"
   url: http://sfenks.sse.cuhk.edu.cn/
   description: "
-  The <a href='dynawheel.jpg'>Dynawheel</a> is a medical smartphone accessory, providing a system for engaging physical therapy,
-  because squeezing a therapy ball gets boring <i>fast</i>.
-  <br>I worked closely with the creators to develop a remote reporting system that makes local patient metrics
-  available to therapists via a web interface.
+    Work as research assistant interested in Blockchain system, edge and cloud computing. Combing blockchain and edge computing in 
+    production scenario and test their performances. 
   "
   image: sfenks.png
 
@@ -25,9 +20,8 @@
   date: "September 2019"
   url: https://www.tsinghua-sz.org/
   description: "
-  Noom is a cool little company that makes a weight loss coach app for iOS and Android.
-  <br>I worked on a team to develop a social network for group therapy, contributing code to both platforms, as well as
-  working on internal tools for our in-house psychologist to monitor users and automated tests to monitor the database.
+    Working as a co-founder of a agriculture technology company. The program focus on empowering agriculture with big data learning.
+    Mainly responsible for web pages building, deep learning model deploy.
   "
   image: tsinghua.png
 
@@ -35,11 +29,7 @@
   date: "Summer 2019"
   url: https://www.techx.academy/
   description: "
-  In the Governor's School program, a bunch of talented high school juniors are housed on campus for an intense month of
-  courses, company tours, and independent research.
-  <br>I worked as a research mentor in conjunction with the Ph.D.'s
-  from Dynawheel, guiding four students in the design and implementation of smartphone games for stroke rehabilitation.
-  <br>I myself had gone through the Governor's School program a few years prior, where I first learned about Android
-  development, so mentoring was a pretty cool experience.
+    Working as a academica lead in machine learning faculty. Responsible for delivering in ML/DL concepts and debugging/setting for 
+    Hackathon project
   "
   image: TechX.png
