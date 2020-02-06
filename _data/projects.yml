@@ -1,10 +1,11 @@
 - name: "Big Data Agriculture"
   # url: https://github.com/revan/LinkedIn-Unconscious-Bias
   description: "
-      A big data based cloud-fog agriculture control system Supervised by <a href="http://www.cs.nthu.edu.tw/~ychung/">Prof.Ye-Ching Cheung<\a>. The system leverages cloud system and edge computing to faciliate the precision management in
+      A big data based cloud-fog agriculture control system Supervised by <a href='http://www.cs.nthu.edu.tw/~ychung/'>Prof.Ye-Ching Cheung<\a> in Thousand Talents Program. The system leverages cloud system and edge computing to faciliate the precision management in
       agriculture. Mainly responsible for Websites building, deep learning model implementation and IoT connections. 
     "
   image: tsinghua.png
+
 
 - name: "Learning Analytics"
   # url: https://github.com/revan/LinkedIn-Unconscious-Bias
