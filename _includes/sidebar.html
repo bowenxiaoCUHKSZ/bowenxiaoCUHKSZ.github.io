@@ -19,7 +19,7 @@
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
-        {% if node.title != Archive}
+        {% if node.title != Archive %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
