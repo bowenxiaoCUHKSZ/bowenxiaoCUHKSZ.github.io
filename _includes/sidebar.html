@@ -19,6 +19,7 @@
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
+        {% if node.title != archive}
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
@@ -27,7 +28,9 @@
             </li>
           {% endif %}
         {% endif %}
+        {% endif %}
       {% endfor %}
+      
 	  <li class="sidebar-nav-item"><a href="https://github.com/bowenxiaoCUHKSZ">GitHub</a></li>
 	  <li class="sidebar-nav-item"><a href="{{ site.resume }}">Resume</a></li>
 
