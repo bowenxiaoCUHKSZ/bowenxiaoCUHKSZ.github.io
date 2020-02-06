@@ -1,11 +1,18 @@
+- name: "Big Data Agriculture"
+  # url: https://github.com/revan/LinkedIn-Unconscious-Bias
+  description: "
+      A big data based cloud-fog agriculture control system. The system leverages cloud system and edge computing to faciliate the precision management in
+      agriculture. Mainly responsible for Websites building, deep learning model implementation and IoT connections. 
+    "
+  image: tsinghua.png
+
 - name: "Learning Analytics"
   # url: https://github.com/revan/LinkedIn-Unconscious-Bias
   description: "
       A big data based learning analytics websites. This project collects tons of students' WIFI usage data and monitors their location.
-      Using XGBoost regression model to analyze the relation ship among academic level and learning behaviours. Sending email to low-GPA
-      students and correct their attitudes.
+      Using XGBoost regression model to analyze the relationship among academic level and learning behaviours. Help low-GPA students get involved
+      with School for help.
     "
   image: Big_Data.png
   # prize: "<a> Huawei Data Creative Competition </a>"
   # demo : url for demo
-

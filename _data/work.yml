@@ -3,7 +3,7 @@
   url: http://www.sribd.cn/index.php/cn/
   description: "
       Mainly work arount visualization design. Using Vue.js to reorganize the learning analytics system. 
-      Design and write codes for webpages and visualization research.
+      Design and write codes for webpages and visualization research. 
     " 
   image: Big_Data.png
 
@@ -12,7 +12,7 @@
   url: http://sfenks.sse.cuhk.edu.cn/
   description: "
     Work as research assistant interested in Blockchain system, edge and cloud computing. Combing blockchain and edge computing in 
-    production scenario and test their performances. 
+    production scenario and test their performances. Implementing distributed system and edge computing system. 
   "
   image: sfenks.png
 
@@ -20,8 +20,9 @@
   date: "September 2019"
   url: https://www.tsinghua-sz.org/
   description: "
-    Working as a co-founder of a agriculture technology company. The program focus on empowering agriculture with big data learning.
-    Mainly responsible for web pages building, deep learning model deploy.
+    Working as a co-founder of a agriculture technology company. This program focus on empowering agriculture with big data learning.
+    Mainly responsible for web pages building (For sensor data visualiztaion, using Vue.js), deep learning model deploy (Counting Fruits,
+    video sequence analysis) and IoT sensor connections.
   "
   image: tsinghua.png
 
@@ -30,6 +31,6 @@
   url: https://www.techx.academy/
   description: "
     Working as a academica lead in machine learning faculty. Responsible for delivering in ML/DL concepts and debugging/setting for 
-    Hackathon project
+    Hackathon project.
   "
   image: TechX.png

@@ -1,18 +1,29 @@
 - name: "EdgeToll: A Blockchain-based Toll Collection System for Public Sharing of Heterogeneous Edges"
-  url: https://mypage.cuhk.edu.cn/academics/caiwei/paper/XiaoFGC2019.pdf
+  url: XiaoFGC2019.pdf
   description: "
-    This research focus on leveraging payment channel and blockchain in a source sharing system. By deploying a payment channel 
-    in public train, we build a web server acting as a intermediate role in connecting off-line agreement. Results show that our system
-    outperform than normal blockchain based method. This paper is published at a top conference (2019 IEEE INFOCOM IECCO WRKSHP).
+    This research focus on leveraging payment channel and blockchain in a source sharing edge computing system. By deploying a payment channel 
+    in public chain, I built a web server acting as a intermediate role in connecting off-line payment agreement. Results show that our system
+    outperform than normal blockchain based method. This paper is published at a top network conference (2019 IEEE INFOCOM IECCO WRKSHP). Responsible
+    for coding implementation, experimentation and paper writing.
   "
   image: edgetoll-photo.png
 
 - name: "EduBloud: A Blockchain-based Education Cloud"
   # url: https://cuhko365-my.sharepoint.com/:b:/g/personal/117010300_link_cuhk_edu_cn/EWkOtMXIUMlNipUgJdkzSDMB63eN7rjlkiDZkQK7vNSSOg?e=UJUjah
-  url: ./ComComAp2019.pdf
+  url: ComComAp2019.pdf
   description: "
     This research leverage blockchain in cloud education system. Different from traditional cloud, our system adopts three layer
-    blockchain (public chain, consortium chain, private chain) to ensure throughput and data veracity.
+    blockchain (public chain, consortium chain, private chain) to ensure throughput and data veracity. Mainly responsible for some basic experimentation
+    and paper writing.
   "
   image: platform.png
+
+- name: "Visual Question Answering (VQA)"
+  # url: https://cuhko365-my.sharepoint.com/:b:/g/personal/117010300_link_cuhk_edu_cn/EWkOtMXIUMlNipUgJdkzSDMB63eN7rjlkiDZkQK7vNSSOg?e=UJUjah
+  # url: ComComAp2019.pdf
+  description: "
+    This research experience is under the supervision of Zhen Li in Big Data Institute. Try to let machine understand the image and question and come
+    up with a solution. Responsible for Pytorch Model implementation and present papers.
+  "
+  image: dchallenge.png
 
