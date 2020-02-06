@@ -9,7 +9,7 @@
 
 - name: "EduBloud: A Blockchain-based Education Cloud"
   # url: https://cuhko365-my.sharepoint.com/:b:/g/personal/117010300_link_cuhk_edu_cn/EWkOtMXIUMlNipUgJdkzSDMB63eN7rjlkiDZkQK7vNSSOg?e=UJUjah
-  url: pdf/ComComAp2019.pdf
+  url: ./ComComAp2019.pdf
   description: "
     This research leverage blockchain in cloud education system. Different from traditional cloud, our system adopts three layer
     blockchain (public chain, consortium chain, private chain) to ensure throughput and data veracity.
