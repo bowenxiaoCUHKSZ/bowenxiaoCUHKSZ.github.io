@@ -11,6 +11,8 @@ Useful Resources:
 * 《大前端吊打面试官系列》之原生 JavaScript 精华篇 (Other articles in this series are BS)
 *  牛客网面经大汇总（Practice is the best!）
 * [前端技术大汇总](https://fecommunity.github.io/front-end-interview/): 目前找到的最全的
+* [前端复习](https://blog.nowcoder.net/yiizgo?page=2): 做成了一个系列
+* [前端大宝典](http://blog.poetries.top/FE-Interview-Questions/?nsukey=Vob4o0G8K8%2FsVICltad6pncGURJVdFFUf1%2F%2Be06JHb9Vz%2BPnmwFijIjHxzbxEMQUHl3PP79bzicBUL0aX5oRvcx5D0TyHFodklAzVzXMVThfJSJdv%2FzXqs5PbNi50wDKdPn0mPpygThRidI%2FqrsjJhDURaMb62k%2FKQElLM5bzM9YrV0EexCobd2xIGs87Q3JAo9z%2FGYYeQv8nDPB1ZECDw%3D%3D)
 
 ## Frequent Questions
 * Implement bidirectional binding of Vue.js
