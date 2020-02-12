@@ -25,3 +25,8 @@ Useful Resources:
 * Implement Deep Copy and Shallow Copy
 * Cross Site Request
 * Hand written AJAX
+* 对CSS实现垂直居中
+* JSONP, CORS原理
+* Promise 原理
+* cookie，浏览器储存
+* 三次挥手四次握手
