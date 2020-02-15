@@ -32,7 +32,7 @@ Useful Resources:
 * Hand written AJAX
 * 对CSS实现垂直居中
 * JSONP, CORS原理
-* Promise 原理 （异步）
+* [Promise 原理 （异步）](https://juejin.im/post/5d6f7c83e51d4561c541a712)这篇文章不厉害，参考链接还可以
 * cookie，浏览器储存
 * 三次挥手四次握手
 * apply, call, bind, new 实现
