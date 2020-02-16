@@ -37,6 +37,10 @@ Useful Resources:
 * 三次挥手四次握手
 * apply, call, bind, new 实现
 * Vue-Router 原理
+* [JS 事件循环机制(Event Loop) + 阮一峰的Promise讲解等等](https://juejin.im/post/5cc64a71e51d456e51614b2f)
+* JS 设计模式（练熟发布订阅即可）
+* Http Headers: Cache-control, Access-Control-Allow-Origin等等
+
 
 
 ## 一些简单问题的总结
@@ -51,6 +55,10 @@ Useful Resources:
 * script标签中的async和defer
 defer：等到DOM加载完成后在执行，预先下载
 async: 另开一个进程去加载和执行
+
+* Promise面试题等:
+[Promise](https://juejin.im/post/5c9a43175188252d876e5903#heading-3)
+[SF解答](https://segmentfault.com/q/1010000018689196?_ea=19219106) 
 
 
  
