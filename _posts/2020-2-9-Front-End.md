@@ -59,6 +59,8 @@ async: 另开一个进程去加载和执行
 * Promise面试题等:
 [Promise](https://juejin.im/post/5c9a43175188252d876e5903#heading-3)
 [SF解答](https://segmentfault.com/q/1010000018689196?_ea=19219106) 
+[Promise原理](https://juejin.im/post/5b83cb5ae51d4538cc3ec354)
+[30分钟搞定Promise](https://mengera88.github.io/2017/05/18/Promise%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/)
 
 ## 网络
 https://www.jianshu.com/p/aa7ac0f31412
