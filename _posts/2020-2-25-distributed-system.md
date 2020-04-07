@@ -1,4 +1,4 @@
-# Data Instensive System (Distributed System)
+
 
 ## course link
 UIUC cs 225（数据结构）+CS 411（数据库）+cs 498-web(网页设计)
