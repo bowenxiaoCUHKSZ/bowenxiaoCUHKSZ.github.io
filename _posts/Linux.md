@@ -27,3 +27,6 @@ top, ps
 
 ## 查看硬件，fetch screen
 uname -r
+如何查询机子硬件等等
+
+## Shell 脚本
