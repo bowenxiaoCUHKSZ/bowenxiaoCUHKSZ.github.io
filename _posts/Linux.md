@@ -1,13 +1,29 @@
 ## Linux 起源
+GNU，
+常见发行版，区别
 
 ## Linux 查询命令
+map, help, info
 
 ## Linux 网络命令
+netstat
+ifconfig
+lsof
+ip addr
+iptables
+
+## docker 
+docker 打包编写
+原理
 
 ## Linux 流命令
+|, < 
 
-## Grep 
+## Grep
+正则
 
 ## 查看进程
+top, ps
 
 ## 查看硬件，fetch screen
+uname -r
