@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Linux"
+---
+
+
 ## Linux 起源
 GNU，
 常见发行版，区别
