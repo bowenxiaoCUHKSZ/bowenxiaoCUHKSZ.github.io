@@ -98,4 +98,36 @@ less, size
 Canvas, WebGL, SVG
 Bootstrap
 
+* 
+zset： Redis有序集合
+海量数据处理面试题
+Golang非侵入式接口是什么意思？有什么用
+EPC：工程总承包
+HBase：非关系型分布式数据库
+RDMA：Remote内存读取（绕过内核）
+gRPC： google,高校交互
+ETCD：分布式数据库， KV
+Aurora：
+Cache Coherence: 内存一致性
+冷热数据分离:热Online 冷Offline
+PostgreSQL: SQL RDBMS
+OLAP：联机Online分析处理
+列储存引擎
+行存引擎： https://blog.csdn.net/youzhouliu/article/details/67632882
+Raftlog：https://raft.github.io/ 分布式算法
+SOA：开放服务
+SLA：服务级别协议
+RESTFulAPI: GET, POST，以及很多设计理念：比如请求用GET，发布资源用POST，规定这些行为。
+RPC: 远程调用 ??
+Actor模型: 一种并行计算模型
+CSP：内容安全策略，浏览器判断危险脚本
+Erlang OTP // Scala Akka Framework
+Pulsar 
+DPDK: 发送网络包更快？
+ASF: 软件基金会
+
+* 
+RAID
+乐观锁
+git fork 之后？https://blog.csdn.net/yuanlaijike/article/details/83722163 
 
