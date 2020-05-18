@@ -13,9 +13,10 @@ Golang 分布式缓存项目
 * new 和 make 的区别
 new: 仅仅分配0值的内存+不初始化，少用，返回值为指针
 make: 分配内存+初始化，多用于slice, map, channel。返回值为引用类型。
+* map底层实现: Buckets，低位定位bucket，之后在bucket里找对应的key。每个bucket 8 个key。
 
-  
-* map底层实现, sync.Map 原理实现
+ 
+* sync.Map 原理实现
 * channel底层实现，异常处理
 * Go并发模型
 * 接口
