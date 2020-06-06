@@ -16,16 +16,15 @@ make: 分配内存+初始化，多用于slice, map, channel。返回值为引用
 * map底层实现: Buckets，低位定位bucket，之后在bucket里找对应的key。每个bucket 8 个key。
 
  
-* sync.Map 原理实现
-* channel底层实现，异常处理
-* Go并发模型
-* 接口
-* golang gc介绍
+* sync.Map 原理实现: 读写分离，空间换时间，先在只读里面找，后来改dirty(?)
+* channel底层实现，异常处理：hchan的buf，通过锁和copy内存实现交流。(?)
+* Go并发模型：生产者消费者(?)
+* 接口: Duck Type. Assertion, 
+* golang gc介绍（STW,Mark and Sweep,黑灰白，内存屏障保证正确性（更改对象指针时），三色不变性）
 三色标记法介绍
 甚至扯到了内存屏障
 标记清扫法相比其他gc算法的好处在哪
-* go的new make区别
-* go的slice和array区别
+* go的slice和array区别: slice像窗口，array是底层数组，互相影响。
   
 Go 如何查看性能：pprof
 Go 如何进行调试：gdb/delve
@@ -35,9 +34,9 @@ Golang生产者消费者模式， 写代码
 
 
 
-go的调度
-go struct能不能比较
-go defer（for defer）
+go的调度(GPM，内核级线程，用户级线程)
+go struct能不能比较(不能？浅复制)
+go defer（for defer）（ＬＩＦＯ）
 select可以用于什么
 context包的用途
 client如何实现长连接
