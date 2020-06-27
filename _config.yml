@@ -17,5 +17,5 @@ author:
 paginate_path:    "blog/page:num"
 paginate:         5
 
-resume:           '../pdf/Resume_Papers2.pdf'
+resume:           '../pdf/Resume.pdf'
 # what the hell
