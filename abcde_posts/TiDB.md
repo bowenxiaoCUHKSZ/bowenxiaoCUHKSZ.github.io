@@ -1,4 +1,0 @@
-MYSQL
-
-rename 
-schema
